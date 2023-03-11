@@ -1,5 +1,4 @@
-import { List } from "immutable";
-import { Comparator } from "../core";
+import { Comparator, List } from "immutable";
 
 export function expectSorting<T>(
   sourceItems: Iterable<T>

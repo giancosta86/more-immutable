@@ -1,5 +1,4 @@
-import { List } from "immutable";
-import { Comparator, PairSorting } from "../core";
+import { Comparator, List, PairSorting } from "immutable";
 import { expectSorting } from "./sorting";
 
 describe("Sorting expectation", () => {

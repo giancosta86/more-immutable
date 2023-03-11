@@ -1,6 +1,6 @@
 {
   "name": "@giancosta86/more-immutable",
-  "version": "1.0.0-beta.1",
+  "version": "1.0.0",
   "description": "Utilities complementing Immutable.js",
   "keywords": [
     "immutable",
@@ -38,7 +38,7 @@
     "watch": "yarn compile-ts --watch"
   },
   "dependencies": {
-    "immutable": "^4.1.0",
+    "immutable": "^4.3.0",
     "jest": "^29.4.2",
     "jest-extended": "^3.2.3"
   },
